@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SunSafe</string>
+    <string name="notification_channel_warnings">UV Warnings</string>
+    <string name="notification_channel_reminders">Sunscreen Reminders</string>
+    <string name="notification_channel_forecast">Daily UV Forecast</string>
+    <string name="notification_channel_achievements">Achievements</string>
+    <string name="notification_channel_tracking">Exposure Tracking</string>
+</resources>

@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+color sun_orange
+drawable ic_achievement
+drawable ic_check
+drawable ic_snooze
+drawable ic_sun
+drawable ic_sunscreen
+drawable ic_uv
+mipmap ic_launcher
+string app_name
+string notification_channel_achievements
+string notification_channel_forecast
+string notification_channel_reminders
+string notification_channel_tracking
+string notification_channel_warnings
+style Theme.SunSafe
+style Theme.SunSafe.SplashScreen
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
