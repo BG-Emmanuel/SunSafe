@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.sunsafe.app-debug-76:/drawable_ic_snooze.xml.flat",
+        "source": "com.sunsafe.app-main-78:/drawable/ic_snooze.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sunsafe.app-main-78:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/drawable_ic_sun.xml.flat",
+        "source": "com.sunsafe.app-main-78:/drawable/ic_sun.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sunsafe.app-main-78:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/drawable_ic_achievement.xml.flat",
+        "source": "com.sunsafe.app-main-78:/drawable/ic_achievement.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.sunsafe.app-main-78:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/xml_backup_rules.xml.flat",
+        "source": "com.sunsafe.app-main-78:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/drawable_ic_uv.xml.flat",
+        "source": "com.sunsafe.app-main-78:/drawable/ic_uv.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/xml_file_paths.xml.flat",
+        "source": "com.sunsafe.app-main-78:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/drawable_ic_sunscreen.xml.flat",
+        "source": "com.sunsafe.app-main-78:/drawable/ic_sunscreen.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sunsafe.app-main-78:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.sunsafe.app-debug-76:/drawable_ic_check.xml.flat",
+        "source": "com.sunsafe.app-main-78:/drawable/ic_check.xml"
+    }
+]

@@ -1,5 +1,6 @@
 package com.sunsafe.app.presentation.screens.forecast
 
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items

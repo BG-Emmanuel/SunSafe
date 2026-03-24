@@ -8,7 +8,7 @@ import com.sunsafe.app.data.local.entity.*
 @Database(
     entities = [UserEntity::class, ExposureEntity::class, SkinPhotoEntity::class],
     version = 1,
-    exportSchema = true
+    exportSchema = false
 )
 abstract class SunSafeDatabase : RoomDatabase() {
     abstract fun userDao(): UserDao

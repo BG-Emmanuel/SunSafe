@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFF8F0</color>
+    <color name="sun_orange">#FF6D00</color>
+    <string name="app_name">SunSafe</string>
+    <string name="notification_channel_achievements">Achievements</string>
+    <string name="notification_channel_forecast">Daily UV Forecast</string>
+    <string name="notification_channel_reminders">Sunscreen Reminders</string>
+    <string name="notification_channel_tracking">Exposure Tracking</string>
+    <string name="notification_channel_warnings">UV Warnings</string>
+    <style name="Theme.SunSafe" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.SunSafe.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFF8F0</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_sun</item>
+        <item name="postSplashScreenTheme">@style/Theme.SunSafe</item>
+    </style>
+</resources>

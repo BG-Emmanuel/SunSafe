@@ -110,6 +110,7 @@ private fun SettingsRow(label: String, value: String?, showChevron: Boolean = fa
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun ProfileSettingsCard(profile: UserProfile, onSave: (UserProfile) -> Unit) {
     var skinType by remember(profile) { mutableStateOf(profile.skinType) }
